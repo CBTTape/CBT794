@@ -1,0 +1,11 @@
+2023-04-03 02:44:19.069771 - Initialized conversion of CBT794
+2023-04-03 02:44:19.115439 - Received CBT.V504.FILE794.PDS from FILE794.XMI 
+2023-04-03 02:44:19.117990 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:44:19.119135 - Found $$NOTE1.txt (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/$$NOTE1
+2023-04-03 02:44:19.120069 - Found $DOC.txt (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/$DOC
+2023-04-03 02:44:19.121057 - Found @FILE794.txt (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/@FILE794
+2023-04-03 02:44:19.126734 - Found RXMEMLIB.xmi (application/xmit) in CBT.V504.FILE794.PDS
+2023-04-03 02:44:19.134222   - Received RECFM=U data, stored XMIT file as CBT794/RXMEMLIB.xmi
+2023-04-03 02:44:19.135186 - Found SAMPLE1.rexx (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/SAMPLE1
+2023-04-03 02:44:19.136192 - Found SAMPLE2.rexx (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/SAMPLE2
+2023-04-03 02:44:19.137123 - Found SAMPLE3.rexx (text/plain) in CBT.V504.FILE794.PDS, moved to PDS/SAMPLE3
