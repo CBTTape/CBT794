@@ -1,11 +1,11 @@
-2025-04-13 22:53:07.325380 - Received CBT.V508.FILE794.PDS from FILE794.XMI 
-2025-04-13 22:53:07.326643 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:53:07.326745 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/$$NOTE1
-2025-04-13 22:53:07.326834 - Found $DOC.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/$DOC
-2025-04-13 22:53:07.326921 - Found @FILE794.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/@FILE794
-2025-04-13 22:53:07.327006 - Found RXMEMLIB.xmi (application/xmit) in CBT.V508.FILE794.PDS, moved to PDS/RXMEMLIB.xmi
-2025-04-13 22:53:07.333115 - Received DFGAETA.RXLOAD from RXMEMLIB.xmi 
-2025-04-13 22:53:07.333521 - Found RXMEM.bin (application/octet-stream) in DFGAETA.RXLOAD, moved to RXMEMLIB/RXMEM
-2025-04-13 22:53:07.333709 - Found SAMPLE1.rexx (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/SAMPLE1
-2025-04-13 22:53:07.333775 - Found SAMPLE2.rexx (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/SAMPLE2
-2025-04-13 22:53:07.333836 - Found SAMPLE3.rexx (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/SAMPLE3
+2025-04-15 05:40:04.160614 - Received CBT.V508.FILE794.PDS from FILE794.XMI 
+2025-04-15 05:40:04.161989 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/$$$#DATE
+2025-04-15 05:40:04.162575 - Found $$NOTE1.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/$$NOTE1
+2025-04-15 05:40:04.162802 - Found $DOC.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/$DOC
+2025-04-15 05:40:04.163022 - Found @FILE794.txt (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/@FILE794
+2025-04-15 05:40:04.163251 - Found RXMEMLIB.xmi (application/xmit) in CBT.V508.FILE794.PDS, moved to PDS/RXMEMLIB.xmi
+2025-04-15 05:40:04.169038 - Received DFGAETA.RXLOAD from RXMEMLIB.xmi 
+2025-04-15 05:40:04.169536 - Found RXMEM.bin (application/octet-stream) in DFGAETA.RXLOAD, moved to RXMEMLIB/RXMEM
+2025-04-15 05:40:04.169882 - Found SAMPLE1.rexx (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/SAMPLE1
+2025-04-15 05:40:04.170090 - Found SAMPLE2.rexx (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/SAMPLE2
+2025-04-15 05:40:04.170346 - Found SAMPLE3.rexx (text/plain) in CBT.V508.FILE794.PDS, moved to PDS/SAMPLE3
